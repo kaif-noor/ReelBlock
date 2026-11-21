@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReelBlock</string>
+    <string name="service_description">Keeps you out of the Instagram Reels tab. Reels people send you still play, but you can\'t scroll to the next one.</string>
+    <string name="how_to">Turn on ReelBlock in Accessibility settings. If the switch is greyed out, go to App info, tap the 3 dots in the corner and pick Allow restricted settings, then try again.</string>
+</resources>
